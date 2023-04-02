@@ -12,3 +12,5 @@ The project uses the JavaScript framework, ReactJS, and the HTTP client, Axios, 
 The project contains two pages, a home page with an overview of the show and a character tab.
 
 Technologies used: JavaScript with ReactJS, Axios, CSS for styling, and ReactRoutes for navigation between pages.
+
+API: https://rickandmortyapi.com
